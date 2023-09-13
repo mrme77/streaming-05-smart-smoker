@@ -51,7 +51,7 @@ try:
 
 See a running example with at least 3 concurrent process windows here:
 
-![Terminal Screenshot](terminal_screenshot.png)
+![Terminal Screenshot](screenshot.png)
 
 
 
