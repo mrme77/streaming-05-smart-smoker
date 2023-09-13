@@ -1,6 +1,6 @@
 # Project Title: streaming-05-smart-smoker
 - Author: Pasquale Salomone
-- Date: September 6, 2023
+- Date: September 12, 2023
 
 This application of RabbitMQ reads temperature data from a CSV file and sends it to RabbitMQ queues. It also opens the RabbitMQ Admin website for monitoring.
 The CSV file contains temperature readings for a smoker and two foods.
