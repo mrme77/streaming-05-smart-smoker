@@ -49,7 +49,7 @@ try:
 
 ## Terminals Screenshots
 
-See a running example with at least 3 concurrent process windows here:
+See a running example:
 
 ![Terminal Screenshot](screenshot.png)
 
