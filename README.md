@@ -47,15 +47,12 @@ try:
                 print("No valid data was found in the CSV file.")
 ```
 
-## Multiple Terminals Screenshots
+## Terminals Screenshots
 
 See a running example with at least 3 concurrent process windows here:
 
-![MultipleConsumers](MultipleConsumers.png)
+![Terminal Screenshot](terminal_screenshot.png)
 
-RabbitMQ WebInterface screenshot:
-
-![UI](UI.png)
 
 
 ## Suggested Readings
