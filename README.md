@@ -53,6 +53,8 @@ See a running example:
 
 ![Terminal Screenshot](screenshot.png)
 
+![RabbitMQ Screenshot](RabbitMQ.png)
+
 
 
 ## Suggested Readings
